@@ -1,5 +1,3 @@
-// File: Arrays/TwoSum.java
-package Arrays;
 
 public class TwoSum {
     public static void main(String[] args) {
